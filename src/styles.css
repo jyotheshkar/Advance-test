@@ -1,0 +1,9 @@
+/* styles.css */
+
+
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
